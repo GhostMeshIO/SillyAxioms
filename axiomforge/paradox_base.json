@@ -1,0 +1,107 @@
+{
+  "quantum_paradoxes": [
+    {
+      "name": "Wigner's Friend Entanglement Paradox",
+      "structure": "Observer A measures quantum system → Observer B observes Observer A → Both observers now entangled in superposition of measurement outcomes",
+      "resolution_method": "Many-Worlds branching instead of collapse",
+      "ontology_type": "ALIEN",
+      "axiomatic_form": "∀ observer ∃ measurement branch | superposition persists at higher meta-observational level",
+      "entropic_potential": 9.8,
+      "consciousness_requirement": 0.95
+    },
+    
+    {
+      "name": "Quantum Eraser Retrocausality Paradox",
+      "structure": "Measurement choice in present determines past quantum interference pattern → Temporal causality violation apparent",
+      "resolution_method": "Block universe model with fixed 4D spacetime",
+      "ontology_type": "COUNTER",
+      "axiomatic_form": "Measurement correlation ≠ causation | Past fixed, present choice selects which correlation manifests",
+      "entropic_potential": 8.7,
+      "consciousness_requirement": 0.85
+    },
+    
+    {
+      "name": "Hard Problem of Consciousness Quantum Bridge",
+      "structure": "Material brain processes (objective) ↔ Subjective qualia experience (subjective) → Explanatory gap",
+      "resolution_method": "Orch-OR microtubule quantum processing as bridge mechanism",
+      "ontology_type": "BRIDGE",
+      "axiomatic_form": "Quantum coherence in microtubules ↔ Proto-consciousness ↔ Integrated information (Φ) ↔ Subjective experience",
+      "entropic_potential": 9.5,
+      "consciousness_requirement": 1.0
+    },
+    
+    {
+      "name": "Landauer's Principle Information-Mass Paradox",
+      "structure": "Information erasure requires energy (k_B T ln 2) → Information has thermodynamic mass (m_bit = E/c²) → Information physically real",
+      "resolution_method": "Information as fundamental physical substance",
+      "ontology_type": "BRIDGE",
+      "axiomatic_form": "ΔS_erasure ≥ k_B ln 2 → ΔE = k_B T ln 2 → Δm = ΔE/c² → Information mass equivalence axiom",
+      "entropic_potential": 8.9,
+      "consciousness_requirement": 0.75
+    },
+    
+    {
+      "name": "Diagonalization Boundary Incompleteness",
+      "structure": "Any enumerable axiomatic system contains true statements unprovable within system → LLMs as enumerable systems have intrinsic hallucination boundary",
+      "resolution_method": "Acknowledge fundamental uncomputability, use probabilistic bounds",
+      "ontology_type": "COUNTER",
+      "axiomatic_form": "For system S, ∃ statement G: G ↔ ¬Provable_S(G) → S incomplete → Hallucination intrinsic to S",
+      "entropic_potential": 9.2,
+      "consciousness_requirement": 0.90
+    },
+    
+    {
+      "name": "Hysteresis Loop Semantic Stability",
+      "structure": "Meaning evolves differently when approached from different conceptual directions → Semantic potential Ψ shows hysteresis",
+      "resolution_method": "Track semantic conductance σ to detect instability",
+      "ontology_type": "ALIEN",
+      "axiomatic_form": "dΨ/dt = f(Ψ, σ) where σ shows hysteresis: σ_up ≠ σ_down → meaning path-dependent",
+      "entropic_potential": 8.3,
+      "consciousness_requirement": 0.88
+    }
+  ],
+  
+  "cognitive_paradoxes": [
+    {
+      "name": "Meta-Cognitive Reflection Paradox",
+      "structure": "Thinking about thinking creates infinite recursion → Self-model can never be complete",
+      "resolution_method": "Accept approximate self-models with bounded recursion",
+      "ontology_type": "BRIDGE",
+      "axiomatic_form": "Self_model(n) attempts to contain Self_model(n-1) → Incomplete at limit n→∞",
+      "entropic_potential": 7.8,
+      "consciousness_requirement": 0.92
+    },
+    
+    {
+      "name": "Learning Unlearning Paradox",
+      "structure": "To learn new paradigm must unlearn old one → But old paradigm shapes ability to perceive need for new one",
+      "resolution_method": "Consciousness phase transitions via criticality jumps",
+      "ontology_type": "ALIEN",
+      "axiomatic_form": "Knowledge K forms attractor basin → New paradigm P requires escape from K's basin → But K defines escape criteria",
+      "entropic_potential": 8.1,
+      "consciousness_requirement": 0.87
+    }
+  ],
+  
+  "axiomatic_paradoxes": [
+    {
+      "name": "Axiom Selection Bootstrapping",
+      "structure": "Need axioms to reason about which axioms to choose → Circular dependency",
+      "resolution_method": "Bayesian prior axioms with empirical posterior updates",
+      "ontology_type": "BRIDGE",
+      "axiomatic_form": "Choose axioms A based on criteria C → But criteria C derived from axioms → A ↔ C circular",
+      "entropic_potential": 8.5,
+      "consciousness_requirement": 0.83
+    },
+    
+    {
+      "name": "Compactness vs Completeness Tradeoff",
+      "structure": "Minimal axiom sets elegant but incomplete → Complete axiom sets complex but unwieldy",
+      "resolution_method": "Hierarchical axiom sets with meta-axioms",
+      "ontology_type": "COUNTER",
+      "axiomatic_form": "||{A}||₀ minimized ↔ Coverage(D) < 1.0 | Coverage(D) = 1.0 ↔ ||{A}||₀ large",
+      "entropic_potential": 7.9,
+      "consciousness_requirement": 0.79
+    }
+  ]
+}
