@@ -1,0 +1,162 @@
+{
+  "SEMANTIC_GRAVITY": {
+    "coordinates": [0.9, 0.8, 0.95, 0.4, 0.85],
+    "core_pattern": "(semantic_field) creates (geometric_structure)",
+    "mechanisms": [
+      "Linguistic quantum entanglement",
+      "Meaning-gravity coupling",
+      "Semantic tensor curvature",
+      "Grammar as constraint equations",
+      "Conceptual mass generation",
+      "Word-world isomorphism",
+      "Semantic field equations",
+      "Linguistic spacetime"
+    ],
+    "equations": [
+      "G_{\\mu\\nu}^{(\\text{semantic})} = 8\\pi G_s T_{\\mu\\nu}^{(\\text{conceptual})} + \\Lambda_s g_{\\mu\\nu}^{(\\text{meaning})}",
+      "T_{\\mu\\nu}^{(\\text{conceptual})} = \\partial_\\mu\\psi^\\dagger \\partial_\\nu\\psi - g_{\\mu\\nu}\\left[\\frac{1}{2}g^{\\rho\\sigma}\\partial_\\rho\\psi^\\dagger \\partial_\\sigma\\psi - V(\\psi)\\right]",
+      "(i\\gamma^\\mu\\nabla_\\mu - m_{\\text{concept}})\\psi_{\\text{semantic}} = \\lambda\\psi_{\\text{semantic}}^3",
+      "\\langle \\text{word} | \\text{reality} \\rangle = \\int \\mathcal{D}[\\text{meaning}] \\, e^{iS_{\\text{semantic}}[\\text{word},\\text{reality}]}"
+    ],
+    "signature_metrics": {
+      "novelty": 1.08,
+      "alienness": 5.5,
+      "elegance": 92.0,
+      "density": 11.2,
+      "coherence": 0.618,
+      "ricci_scalar": -0.12,
+      "cosmological_constant": 1.0,
+      "planck_scale": 1.0
+    },
+    "seed_keywords": ["meaning", "language", "semantic", "word", "grammar", "linguistic", "gravity", "spacetime", "curvature"]
+  },
+  "AUTOPOIETIC_COMPUTATIONAL": {
+    "coordinates": [0.7, 0.9, 0.6, 0.3, 1.0],
+    "core_pattern": "(computation) creates (itself)",
+    "mechanisms": [
+      "Self-writing program execution",
+      "Recursive Gödel encoding",
+      "Bootstrap existence predicate",
+      "Reality as computational fixed-point",
+      "Autonomous code generation",
+      "Self-modifying algorithms",
+      "Autopoietic state machines",
+      "Recursive type systems",
+      "Gödelian curvature dynamics"
+    ],
+    "equations": [
+      "G_{\\mu\\nu}^{(\\text{comp})} = 8\\pi T_{\\mu\\nu}^{(\\text{code})} + \\Lambda_{\\text{self\\_reference}} g_{\\mu\\nu}^{(\\text{Gödel})}",
+      "i\\hbar \\frac{\\partial \\psi(\\text{code})}{\\partial t} = \\hat{H}_{\\text{execute}} \\psi(\\text{code}) + V_{\\text{self\\_reference}} \\psi(\\text{code}^\\dagger)",
+      "\\exists x (F(x) \\land \\forall y (F(y) \\rightarrow x = y))",
+      "\\text{while True: reality = execute(reality\\_code); reality\\_code = encode\\_with\\_curvature(reality)}"
+    ],
+    "signature_metrics": {
+      "novelty": 1.15,
+      "alienness": 7.2,
+      "elegance": 89.5,
+      "density": 10.9,
+      "coherence": 0.73,
+      "ricci_scalar": 0.68,
+      "cosmological_constant": 1.618,
+      "planck_scale": 1.0
+    },
+    "seed_keywords": ["self", "recursive", "comput", "program", "algorithm", "code", "autonomous", "loop", "gödel", "fixed-point"]
+  },
+  "THERMODYNAMIC_EPISTEMIC": {
+    "coordinates": [0.5, 0.4, 0.3, 0.6, 0.7],
+    "core_pattern": "(knowledge) creates (entropy) creates (reality)",
+    "mechanisms": [
+      "Belief phase transitions",
+      "Epistemic temperature gradients",
+      "Information-mass equivalence",
+      "Cognitive entropy pumps",
+      "Knowledge pressure differentials",
+      "Learning as heat transfer",
+      "Understanding as crystallization",
+      "Insight as critical point",
+      "Epistemic spacetime curvature"
+    ],
+    "equations": [
+      "G_{\\mu\\nu}^{(\\text{epistemic})} = 8\\pi T_{\\mu\\nu}^{(\\text{knowledge})} + \\Lambda_{\\text{understanding}} g_{\\mu\\nu}^{(\\text{thermo})}",
+      "dS_{\\text{epistemic}} \\geq \\frac{\\delta Q_{\\text{belief}}}{T_{\\text{cognitive}}}",
+      "m_{\\text{bit}} = \\frac{k_B T_{\\text{thought}} \\ln 2}{c^2} \\left(1 + \\frac{R}{6\\Lambda_{\\text{understanding}}}\\right)",
+      "\\nabla \\cdot \\mathbf{J}_{\\text{knowledge}} = -\\frac{\\partial \\rho_{\\text{belief}}}{\\partial t}"
+    ],
+    "signature_metrics": {
+      "novelty": 1.12,
+      "alienness": 4.8,
+      "elegance": 87.0,
+      "density": 10.5,
+      "coherence": 0.68,
+      "ricci_scalar": 0.42,
+      "cosmological_constant": 0.618,
+      "planck_scale": 1.0
+    },
+    "seed_keywords": ["knowledge", "entropy", "heat", "temperature", "belief", "information", "epistemic", "thermo", "cognition"]
+  },
+  "FRACTAL_PARTICIPATORY": {
+    "coordinates": [1.0, 0.7, 0.5, 0.8, 0.6],
+    "core_pattern": "(observer_scale) creates (reality_scale)",
+    "mechanisms": [
+      "Multi-scale observer entanglement",
+      "Fractal participation patterns",
+      "Self-similar measurement",
+      "Scale-invariant collapse",
+      "Recursive observation hierarchy",
+      "Holographic encoding of scale",
+      "Power-law participation",
+      "Renormalization group consciousness",
+      "Fractal spacetime metric generation"
+    ],
+    "equations": [
+      "P(k) = C k^{-\\alpha} e^{-k/\\kappa} \\times F(\\theta)",
+      "O_\\lambda(x) = \\lambda^{-d_O} U(\\lambda) O(x/\\lambda) U^\\dagger(\\lambda)",
+      "\\langle \\psi | P | \\psi \\rangle_{\\text{scale}} = \\text{scale}^\\alpha \\langle \\psi | P | \\psi \\rangle_0",
+      "D_f = \\frac{\\log N}{\\log(1/s)}",
+      "ds^2 = \\sum_{n=0}^\\infty \\lambda^{-2n} \\left[g_{\\mu\\nu}^{(n)} dx_\\mu^{(n)} dx_\\nu^{(n)}\\right]"
+    ],
+    "signature_metrics": {
+      "novelty": 1.18,
+      "alienness": 8.3,
+      "elegance": 94.0,
+      "density": 11.5,
+      "coherence": 0.62,
+      "ricci_scalar": 0.31,
+      "cosmological_constant": 0.5,
+      "planck_scale": 0.618
+    },
+    "seed_keywords": ["observer", "scale", "fractal", "hierarchical", "measurement", "participation", "holographic", "multi-scale"]
+  },
+  "CAUSAL_RECURSION_FIELD": {
+    "coordinates": [0.6, 0.5, 0.4, 0.95, 0.8],
+    "core_pattern": "(future) creates (past) creates (present)",
+    "mechanisms": [
+      "Causal field folding",
+      "Time-loop stabilization",
+      "Retrocausal feedback amplification",
+      "Present as temporal attractor",
+      "Causal knot formation",
+      "Temporal standing waves",
+      "Chronon entanglement networks",
+      "Self-consistent history weaving",
+      "Consistency enforcement loops"
+    ],
+    "equations": [
+      "\\nabla_\\mu C^{\\mu\\nu} = J^\\nu_{\\text{obs}} + \\lambda \\epsilon^{\\mu\\nu\\rho\\sigma} C_{\\mu\\nu} \\wedge C_{\\rho\\sigma}",
+      "C_{\\mu\\nu} = \\partial_\\mu A_\\nu - \\partial_\\nu A_\\mu + [A_\\mu, A_\\nu]",
+      "\\oint_\\gamma \\mathbf{C} \\cdot d\\mathbf{x} = \\Phi_{\\text{temporal}}",
+      "x_{t+1} = f\\left(x_t, x_{t-1}, \\int_{t+1}^{\\infty} g(x_\\tau) d\\tau\\right)"
+    ],
+    "signature_metrics": {
+      "novelty": 1.22,
+      "alienness": 7.8,
+      "elegance": 91.5,
+      "density": 11.0,
+      "coherence": 0.65,
+      "ricci_scalar": 0.95,
+      "cosmological_constant": 2.0,
+      "planck_scale": 0.5
+    },
+    "seed_keywords": ["time", "causal", "temporal", "future", "past", "present", "loop", "recursion", "chronon", "attractor"]
+  }
+}
