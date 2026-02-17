@@ -1,4 +1,3 @@
-```markdown
 # Changelog
 
 ## [3.3.0] – 2026-02-17
@@ -49,4 +48,3 @@
 - First public version with legacy `alien`/`counter`/`bridge`/`meta` ontologies.
 - Basic MOGOPS operators and paradox generation.
 - Initial `SophiaPhaseTransition` with hardcoded golden ratio.
-```
