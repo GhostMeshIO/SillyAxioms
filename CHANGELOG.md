@@ -48,3 +48,10 @@
 - First public version with legacy `alien`/`counter`/`bridge`/`meta` ontologies.
 - Basic MOGOPS operators and paradox generation.
 - Initial `SophiaPhaseTransition` with hardcoded golden ratio.
+
+## [3.3.1] – 2026-02-17
+### CLI Usability Improvements
+
+- **Fixed `--paradox-type` argument** – Now accepts simplified names like `causal` (maps to `"Causal Loop"`), avoiding shell quoting issues. All legacy paradox types (`entropic`, `temporal`, `cosmic`, `metaphysical`, `linguistic`, `causal`, `relativistic`, `random`) work with or without quotes.
+- **Updated geodesic example** – The help text now shows correct quoting for `--geodesic` arguments (e.g., `--geodesic "0.5,0.75,0.45,0.51,0.62 0.1,1.3,0.48,0.21,0.55"`).
+- **Minor help text improvements** – Clarified usage examples.
